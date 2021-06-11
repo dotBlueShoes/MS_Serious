@@ -1,0 +1,304 @@
+- Living stone 
+a stone variant that is animated it appear blurry and it slowly moves
+living stone will grow as goo would. if mined it will regrow.
+can be lit of fire to fastly remove a massive chunk of it.
+
+
+# InGame Test
+- Look out for papercraft. How hard is it to craft thoose blocks? Are all of these blocks wanted? Are there any console errors due to this mod?
+
+- Make it so ores always drop when exploded via tnt.
+- remove flowers all of them bring back original yellow and red flower.
+- think about new ways of getting dye.
+
+- diffrensiate overwolrd lava from deepcave lava attributes. (energy and such)
+
+- An alpha like biome as an mainly genereting biome 
+(might be achived via modds)
+(might be achived via texturepack)
+
+- 3-8 custom small structures gennereting on surface it's a collection of chisel cobblestone/stone variants, water, lava and oil.
+
+- make it that whenever a chisel block is being mined without silk touch it's returning to it's original block + when stone variant is being mined it's giving cobblestone instead.
+
+- Road Runner, Ido, Better Placement, FreeLook, Squake
+ - make biomes more alpha like (orchind, highland)
+ - scray monster instead of enderman
+ - test shaders (BSL Shaders) [rivers]
+ - forestry ores config (common.cfg)
+ - ic2 ores config
+ - buildcraft ores config (seems like only all can be disabled)
+ - forestry - remove trees that are duplicate (it has a config)
+- ogarnij co by wypad³o z buildcrafta jakby by³a tylko opcja (nie generuj)
+
+#######
+
+Sprites:
+ - copper, tin, bronze : tools, silentTools, bar, bar block.
+ - mysterious villager (end villager).
+ - gray portal block (Deep Cave Elevation)
+ - copper, tin, bronze chisel.
+
+
+ToDo:
+- disable generation of tin and copper. (Forestry, Buildcraft)
+- remove tin and copper from game. (Forestry, Buildcraft)
+- create custom tin and copper with their tools and SilentTools.
+- make copper gennerate in top world levels in large amounts all the way down.
+- make tin generate somewhere to.
+- remove/change vanilla ores generation rules.
+- coal generates somewhere from 64 - down block.
+- iron generates somewhere from 40 - down block.
+- gold - ?
+- redstone - ?
+- lapis - ?
+- diamonds now generates somewhere from 7 - down block.
+- create custom ore block called "Deep Cave Elevation" which generates as normal ore somewhere from 2 - down block.
+- create custom block called packed wool.
+- add recipe for 'packed wool' (2x2 wool (any for now)).
+- replace bed recipe to now use 3x'packed wool', 1x'wooded slab', 2x'wood'.
+- remove Forestry's brocked pickaxe, shovel.
+- replace "Forestry/Buildcraft" recipes that use their 'bronze', 'cooper' with my mod.
+- create an extra house in every village with villager caller 'Mysterious Villager'
+- create a custom skin texture for him and change his products table.
+- replace fishing rod recipe with acuaculture mod fishing rod.
+- create a custom house in every village with vilager seeling pams food. (maybe 2)
+- disable strongholds (No Worldgen 5 You)
+- disable nether (No Nether Portals)
+- change lumen mod mobs name with 'entity.faerie.name' to 'faerie'.
+- change spookytree mod door name with 'item.spookytree_door.name' to '... door'.
+- spooky tree trapdoor is brokern do something with it.
+- do something with familiarfauna loot items.
+- add bronze/copper chisel.
+- add a recipe for mossy cobblestone (stone+seeds)
+- zombies should be able to break trought doors. (skeletons too) (creepers should be able to explode then)
+- creepers cannot be fully invisible (at least some particle effect around them)
+- there should be an animation of creeper becoming ivi.
+- treetap should have less durabirity.
+- more sheeres ?
+- sometimes theres more fireflyes then eniemis. change that.
+- more trapdoors ? try a mod or implement yourself.
+- [texture] make every woods colors a bit more like the original oak wood.
+- remove second hand.
+- tweak darkness (why is it not working with texturepacks) make it slighty brighter.
+- make creepers deal a bit less (so u don't die if youre those 3 blocks away).
+- make creepers have a potion effect.
+- make day a bit longer.
+- remove forestry willow trees
+- [texture] make white bed have a red pillow.
+- remove/change nature's compas recipe.
+- remove useless drops if indeed useless (famirialfauna).
+- add copper, tin, bronze chisel.
+- add roses back to the game.
+- create "origin island" like biome.
+- add sawdust, dirtdust?, stonedust? [it's an additional drop from wood...]
+- remove banners from game.
+
+- biome bundle instead biomes o plenty?
+
+mods
+ - aquaculture
+	: Test this mod in action.
+	: replace normal fishing rod with modded one.
+	: how hard is it to acquire it's armor and tools
+	: make those craftable via SilentGear.
+ - BackTools
+	: how does it works with backpacked mod?
+	: if there are colisions think about those.
+ - Biomes O' Plenty
+	: how does ore generation look here? Do i need to process extra?
+ - Chisel
+	: Can i expend this mod? addons?
+ - Classic Combat
+	: look again into the configs / description see what mod is changin.
+ - Familiar Fauna
+	: useless drops
+ - Forestry
+	: Ores, World Gen, Trees
+ - Hardcore Darknesss
+	: When changed texture the darkness is no more.
+ - IndustrialCraft2
+	: Ores, World Gen, Unneded Items, tools.
+ - Item Zoom
+	: default zoom config
+ - Lumen
+	: unnamed entities
+	: useless drops
+ - Macaw's Doors
+	: It need to be simplier or a way to notify the user about them
+
+###
+
+- Rough Mobs Revamped
+	- Configs! // Read about before experimencing with mods like
+	AI Improvements.
+Buildcraft:
+	- [copy] disable fully or partly world gen.
+
+-- continue
+ - check the mods that were removed including pams food.
+ - check the mods that could get added.
+- check fish unded rising
+, darknesslib, portable-crafting, extended-days
+
+ - go through the list of mods and todo list and connent mods with their issues and things to do.
+ - applay the things from mod tracker.
+ - redo the tracker to be more clean.
+ - update the mods.
+ - git. &gitignore
+###########
+
+################
+- mods folder
+- config folder
+- scripts folder
+- options, optionsof
+################
+
+// switch-z note for switching between item-zoom and fav
+
+# Quick_Notes #
+- try incresing number of cave water lakes and rivers.
+- edit surface-caves value in bettercaves mod config.
+- have a note about recomended keybindings if possible send files.
+- achivements for tools making including crafting blueprintbook!
+- whats buildcraft guide book note?
+- a welcome note (information about some keys and switching between options)
+it would be grat if that would also be a book.
+- achivement path starting with creating chest/crayBackpack going through all the backpacks and chests
+- sometimes 2 musics are played at once.. a funky one and minecraft one
+- what mouse tweaks does?
+- find a way to rename lumen wisps names. as for now those have programmed names.
+- add more overlays!!!
+- old achivements background and button "done" under.
+- alpha like beds. (monsters spawn near player when player sleeps in area exposed to monsters, Beds doesn't work as spawnpoint?, remove 3D legs make them 2D, remove beds from vilages, make them craftable using packed wool)
+- architecturecraft, water ones from curse fav.
+- buildcraft - akashictome
+- can i remove registring entity by another mod entirely
+- can i use function used by other mod
+- should i create my own ore generation system and remove/block other mods genereting their ores.
+- how can i modify the exsisting original minecraft ores?
+(remove them complitly, just modify)
+################
+
+[IDEAS]
+: Make ghost projectiles homing!
+: To get to nether and out only the portal with corners will work.
+: It will be possible to place water in nether and grass?
+
+- Consider
+	: Project Table
+	: Biome Bundle O Plenty (might be moving bop gen settings)
+	! Better Animations Collection 2
+	: Discord Integration
+	: Apotheosis
+	: BetterFPS
+	: Game Stages
+	: Nature's Compass
+	! Refined Relocation 2 (chest search)
+	: TexFix
+	: TickProfiler
+	: MoCreatures
+	: MobStages
+	: Atum 2
+	: Epic Siedge
+	: Chickens
+	: Mistical World (Creatures/ structures/ recipes)
+	! AI Improvements
+	: Default Options
+	: Builder's Bag
+	: RandomTweaks
+	: RandomPatches
+	: JustMobHeads
+	: PlayersDropHeads
+	: Armor Status HUD Renewed
+	: Never Break
+	: Traverse: Legacy Continued
+	:  ATOP Armor for Biomes O' Plenty
+	: Cavern 2
+	! Pam's Squid Milking
+	! Pam's Pig Skin
+	! Pam's Weee! Flowers
+	! Pam's Llama Milking
+	! Pam's BoneCraft
+	! Pam's DesertCraft
+	! Pam's BrewCraft
+	: Bedrock Ores
+	: Torch Bandolier
+	: Crafting Tweaks
+	: Just Enough Resources
+	: Default Options
+	: Fast Leaf Decay
+	| ModTweaker - if needed
+	: FastWorkbench
+	: FastFurnace
+	: Toast Control
+	: Dynamic Surroundings 
+	(check how modit can it be sounds, effects)
+	: Dynamic Surroundings: HUDs (neat features)
+	: Exotic Birds
+	: TrueType Font Replacement
+	: Sound Filters
+	: Iron Tanks
+	: poject mmo
+
+- Consider if updated:
+	: Potion Bundle mod
+	: Banana Decor mod
+	: Pane In The Glass
+
+- Consider Replacing
+	: "Silent Gear" with "Tinkers Construct"
+	: "Optifine" with "Phospor (Forge)"
+
+- Recipes
+	- Consider removing / changing
+
+	: Lether Cap, Lether Tunic, Lether Pants, Lether Boots
+	: Iron Helmet, Iron Chestplate, Iron Leggings, Iron Boots
+	: Diamond Helmet, Diamond Chestplate
+	: Diamond Leggings, Diamond Boots
+	: Golden Helmet, Golden Chestplate
+	: Golden Leggings, Golden Boots
+	: Neptunium Sword, Neptunium Pickaxe
+	: Neptunium Axe, Neptunium Shovel, Neptunium Hoe
+	: Bronze Sword, Bronze Pickaxe
+	: Bronze Axe, Bronze Shovel
+
+	: Wooden Sword, Wooden Pickaxe
+	: Wooden Axe, Wooden Shovel
+	: Stone Sword, Stone Pickaxe
+	: Stone Axe, Stone Shovel
+	: Iron Sword, Iron Pickaxe
+	: Iron Axe, Iron Shovel
+	: Gold Sword, Gold Pickaxe
+	: Gold Axe, Gold Shovel
+	: Diamond Sword, Diamond Pickaxe
+	: Diamond Axe, Diamond Shovel
+	: Neptunium Helmet, Neptunium Chestplate
+	: Neptunium Leggings, Neptunium Boots
+	: Bronze Helmet, Bronze Chestplate
+	: Bronze Leggings, Bronze Boots
+
+	: NanoSuit Helmet, NanoSuit Bodyarmor
+	: NanoSuit Leggings, NanoSuit Boots
+	: Nightvision Goggles
+
+	: QuantumSuit Helmet, QuantumSuit Bodyarmor
+	: QuantumSuit Leggings, QuantumSuit Boots
+	
+	: ! ic2:nano_saber
+	: ! ic2:mining_laser
+	: ! ic2:drill
+	: ! ic2:diamond_drill
+	: ! ic2:iridium_drill
+	: ! ic2:chainsaw
+	
+	: forestry - backpacks 
+	[builder, adventurer, hunter, forester, digger, miner]
+
+familiarfauna:pixie_dust!
+aquaculture:admin_fishing_rod!
+
+ic2:nano_leggings, ic2:nano_helmet, c2:nano_boots, ic2:nano_chestplate
+ic2:quantum_chestplate, ic2:quantum_leggings, ic2:quantum_helmet, ic2:quantum_boots, ic2:nightvision_goggles

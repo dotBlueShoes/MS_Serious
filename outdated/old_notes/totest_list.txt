@@ -1,0 +1,41 @@
+# Test #3
+- Biomes O Plenty
+- Serene Seasons
+- PR Luminance
+- RainyDay
+- Sky_Water Demo
+- BlendAlpha no optifine 1.12.2
+
+Commands:
+/ss setseason
+EARLY_SPRING
+MID_SPRING
+LATE_SPRING
+EARLY_SUMMER
+MID_SUMMER
+LATE_SUMMER
+EARLY_AUTUMN
+MID_AUTUMN
+LATE_AUTUMN
+EARLY_WINTER
+MID_WINTER
+LATE_WINTER
+
+Issue1:
+ "PR Luminance" (standard) removes hardcore darkness mod effect.
+ "PR Luminance" (full) gives complete darkness that can be lighten up using ingame brightness setting.
+ "PR Luminance" increases the dark of shadows creating weird visible black circular under trees and blocky shadow under trees on water.
+ "PR Luminance" increases the shadow of water-land edge making it weirdly outplaced. 
+
+Solution:
+ "PR Luminance" - will get replaced by my mod. "HardcoreDarkness" will prob. conflict too therefore it will also be removed. The mod i will create will contain the "HardcoreDarkness" features and "PR Luminance" orange light and different light levels in different dimensions.
+
+
+Issue2:
+ "Rainy Day" rain sounds are somewhat buggy. and drasticly change thair volume when changing look from forward to up the sky.
+
+Solution:
+ Create Own custom weather skin "BlendAlpha" to cover the art style of "Rainy Day" however for at least now don't touch the weather sounds.
+
+Issue3 - Solution:
+ "Sky_Water Demo" see if my implementation is gonna work on the "alpha biome", BOP biomes.

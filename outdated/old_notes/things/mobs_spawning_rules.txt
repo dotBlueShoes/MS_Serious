@@ -1,0 +1,44 @@
+What if player would leave an invisible track that mobs would folow.
+
+So lets say that mobs no longer spwan due to light
+however a mob spwans near player if he sleeps in dark.
+
+from now on mobs spawn only at night beyond a specific radius on surface.
+and in areas unseen for player underground.
+
+whats more player now leaves a track from which mobs will come in.
+this track will act as a loaded chuck from which mobs will spawn with the set
+goal of killing the player.
+If there were 2 players at the same chunk the one that visited it last will be bothered.
+track has a time stemp. so so
+
+// actually
+i might just keep the position of the player on the world
+and track his avarge position relative to it's current position.
+and based on that spawn mobs somewhere from that/those directions.
+- this would have no time stemps and will collect information during day
+and aplay it at night.
+
+Additional Sieges.
+Certain nights might bring sieges.
+ - undeed
+ - spider
+ - creeper
+
+Siege has no informer of it happening.
+You will know u're under the sidge when u'll see all the monsters
+around your base.
+- but i do think that when siedge is happening a new kind of a monster ar an abillity
+should exist.
+(ignited zombie) - burning things having a low lifespan.
+(big spider) - a big spider.
+(balistic creeper) - tnt'ing his way through when he sees you. (prob. will die from his own expl.)
+
+
+And as we're talking about night i think that only and during nights there should be a chance for a meteor shower that mght end up with a meteor hitting the ground somewhere.
+
+also moon phase specific mob abillities. i guess a specific siege might be assigned to a specifc moon phase.
+
+and of corse sieges and night enemy spawning will combine and it will be even more dangerous.
+
+i would also love to see a light emitting mob.

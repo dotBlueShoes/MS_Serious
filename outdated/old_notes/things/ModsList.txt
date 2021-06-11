@@ -1,0 +1,30 @@
+- Applied Energistics, (2)
+- BuildCraft
+- Industrial Craft
+- ComputerCraft (CC-Tweaked, Fabric)
+- qCraft
+- EnderIO
+- Mystcraft
+- EnderStorage
+- Forestry
+- Extreme Reactors
+- Hwyla
+- Inventory Sorter
+- Railcraft
+- ProjectRed
+- RedstoneFlux
+- RFTools
+- Translocators
+- Wawla
+- Thermal Foundation
+
+ai-mod-pathfinding
+ui-mod-overhaul
+lib-mod for packed
+
+@Minecraft mobs
+- https://www.curseforge.com/minecraft/mc-mods/ai-improvements
+- https://www.curseforge.com/minecraft/mc-mods/improved-mobs
+- https://www.curseforge.com/minecraft/mc-mods/performant
+
+// Mob Amputation + Mob Dismemberment!

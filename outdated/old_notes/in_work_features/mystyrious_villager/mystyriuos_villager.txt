@@ -1,0 +1,3 @@
+Add new villager with custom skin and custom new house located in vilages selling end things that are not availible due to the missing of strongholds and end dimension.
+
+[forestry adds custom villager and house therefore look into it's code.]

@@ -1,0 +1,27 @@
+- User spawns.
+- First thing he should do is look for food and wood
+- after he collected enaugh to make a wooden pickaxe and workbench
+he should dig for stone. occasionlly user might find bronze on the surface level
+allowing him to create better tools/armour then stone.
+(silent gear - bronze)
+(removing coal and iron from surface level)
+After gaining stone/bronze user shoud cut down more trees prob. a lot of them due to the no coal on surface level.
+He shoud make charlcoal instead burning wood with wood.
+[Fisrt Night - bed issue - it seems to easy]
+
+the next thing user will find is coal and right after it the user should be abble to find iron.
+
+
+[beds shouldn't be available just from killing a sheep]
+?? packed wool (four wool of specific color)
+[beds recipe should instead use wood slabs]
+[axes shouldn't deal more damage then swords]
+?? i could make it that only colored beds are possible to create
+[it wood be cool to have just one early [silent gear] stone weapon that will
+deal enught to kill sheep 8 halfharts (onehit)]
+[it wood be great to make eggs usefull early]
+?? maybe some special workbench for food (2 wood, 2 stone)
+[Chisel should be availible early, bronze chisel]
+
+Optional
+[MiniCoal/MiniChorcoal]

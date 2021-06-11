@@ -1,0 +1,24 @@
+# With Silent Tools #
+- it's unupdated and some parts are unfinished.
+- plenty of errors in console.
+- it's unscalable (i cant add more items like sirent tools).
+
+# With Cubic Chunks #
+- invisible entities (including players).
+- invisible items.
+- lag issues upon entering nether.
+- lagging animals behaviour.
+
+# Compile Errors #
+- silenttools.
+
+# Crashes #
+- while using forestry worktable with silentgear items.
+- [double-slabs] crash when breaking stacked slabs. (quite common)
+ / try updating the mod.
+
+# Incosistence #
+- bronze storage box didin't drop when broken with silent full iron pickaxe.
+
+# Lumen MOD #
+- player can see through water by looking at wisp in first place.

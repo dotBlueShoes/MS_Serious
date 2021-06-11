@@ -1,0 +1,32 @@
+{
+	"minecraft": {
+		"version": "1.12.2",
+		"modLoaders": [
+			{
+				"id": "forge-14.23.5.2855",
+				"primary": true
+			}
+		]
+	},
+	
+	"manifestType": "minecraftModpack",
+	"manifestVersion": 1,
+	"name": "Serious",
+	"version": "alpha",
+	"author": "dotBlueShoes",
+	
+	"files": [
+		{
+			"projectID": 274782,
+			"fileID": 2483769,
+			"required": true
+		},
+		{
+			"projectID": 236821,
+			"fileID": 2480942,
+			"required": true
+		}
+	],
+	
+	"overrides": "overrides"
+}

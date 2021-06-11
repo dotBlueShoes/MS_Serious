@@ -1,0 +1,41 @@
+highland.json
+ [changed ] "canGenerateRivers": true
+
+optifine[ingame][changed]
+fog : fast-fancy
+fog-start: 0.8-0.2
+
+silentgear.cfg:
+- Added
+{ familiarfauna:familiarfauna.deer, minecraft:lama }
+To 'Sinew' drops.
+
+- Added
+{ ic2:bronze_helmet, ic2:bronze_chestplate, ic2:bronze_leggings, ic2:bronze_boots, ic2:bronze_shovel, ic2:bronze_hoe, ic2:bronze_pickaxe, ic2:bronze_sword, ic2:bronze_axe, aquaculture:neptunium_pickaxe, aquaculture:neptunium_sword, aquaculture:neptunium_shovel, aquaculture:neptunium_hoe, aquaculture:neptunium_axe, aquaculture:neptunium_leggings, aquaculture:neptunium_helmet, aquaculture:neptunium_boots, aquaculture:neptunium_chestplate, forestry:bronze_shovel, forestry:bronze_pickaxe, forestry:broken_bronze_shovel, forestry:broken_bronze_pickaxe, ic2:alloy_chestplate, ic2:rubber_boots, ic2:static_boots, ic2:hazmat_chestplate, ic2:hazmat_helmet, ic2:hazmat_leggings, ic2:solar_helmet }
+To nerfed durability and nerfed gear list.
+
+
+itemzoom.cfg:
+- Changed
+"I:zoom.amount"
+To '40'.
+
+
+familiarfauna:config.cfg:
+- Changed
+"deer settings:Max. Group Size"
+To '3'.
+
+
+chisel.cfg:
+- Changed
+"I:hitechChiselMaxDamage"
+To '2560'
+
+- Changed
+"I:diamondChiselMaxDamage"
+To '1280'
+
+- Changed
+"I:ironChiselMaxDamage"
+To '256'.
